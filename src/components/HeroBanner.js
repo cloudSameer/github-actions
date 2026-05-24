@@ -9,7 +9,7 @@ const HeroBanner = memo(function HeroBanner({ stats }) {
       <div className="hero__glow" aria-hidden="true" />
 
       <div className="hero__content">
-        <p className="hero__arabic">Eid Mubarak</p>
+        <p className="hero__arabic">Bakrid mubarak</p>
 
         <h1 className="hero__title">
           Find Your <span className="hero__title-accent">Eid Namaz</span> Masjid
